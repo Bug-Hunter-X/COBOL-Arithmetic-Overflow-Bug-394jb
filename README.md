@@ -1,0 +1,1 @@
+This repository demonstrates a subtle arithmetic overflow bug in COBOL. The program adds two numeric fields, but the result exceeds the capacity of the target field, leading to an unexpected outcome. The solution shows how to handle such errors gracefully.
